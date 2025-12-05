@@ -9,9 +9,9 @@
 ##
 <div> 
 <p align="center">
-<a href="https://github.com/Victhyy"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victhyy&show_icons=true&theme-dracula&include_all_commits-true&count_private-true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victhyy&layout=compact&langs_count=16&theme-dracula"/> 
+<a href="https://github.com/FerreiraVictorS"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraVictorS&show_icons=true&theme-dracula&include_all_commits-true&count_private-true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraVictorS&layout=compact&langs_count=16&theme-dracula"/> 
 </div>  
   
 ##
@@ -32,8 +32,8 @@
 
 ##
 <p align="center"><picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victhyy/Victhyy/output/github-contribution-grid-snake-dark.svg"> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victhyy/Victhyy/output/github-contribution-grid-snake.svg"> 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victhyy/Victhyy/output/github-contribution-grid-snake.svg"> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerreiraVictorS/Victor-Ferreira/output/github-contribution-grid-snake-dark.svg"> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerreiraVictorS/Victor-Ferreira/output/github-contribution-grid-snake.svg"> 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FerreiraVictorS/Victor-Ferreira/output/github-contribution-grid-snake.svg"> 
 </picture> 
 <br><br>
