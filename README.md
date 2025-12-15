@@ -11,7 +11,8 @@
 <p align="center">
 <a href="https://github.com/FerreiraVictorS"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraVictorS&show_icons=true&theme-radical&include_all_commit=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraVictorS&layout=compact&langs_count=16&theme-radical"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraVictorS&layout=compact&langs_count=16&theme-radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=FerreiraVictorS"/> 
 </div>  
   
 ##
